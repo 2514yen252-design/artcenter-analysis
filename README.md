@@ -1,5 +1,5 @@
 # artcenter-analysis
-https://gemini.google.com/share/4a8590ce9cd5
+https://gemini.google.com/share/c6d89731283b
 사용 데이터 개요
 데이터 출처: 공공데이터포털(data.go.kr) 및 예술의전당 공개 데이터
 
